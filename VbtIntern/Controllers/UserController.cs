@@ -17,7 +17,9 @@ namespace VbtIntern.Controllers
         [HttpGet(nameof(GetAllUser))]
        public List<User> GetAllUser()
         {
+            //elinize sağlık
             var response = _userService.GetAllUser();
+            
             return response;
         }
 

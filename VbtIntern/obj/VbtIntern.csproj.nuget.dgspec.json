@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SpecialProject\\VbtIntern\\VbtIntern\\VbtIntern\\VbtIntern.csproj": {}
+    "C:\\Users\\oguzhan.kara\\Desktop\\vbtIntern_\\VbtIntern\\VbtIntern.csproj": {}
   },
   "projects": {
-    "C:\\SpecialProject\\VbtIntern\\VbtIntern\\VbtIntern\\VbtIntern.csproj": {
+    "C:\\Users\\oguzhan.kara\\Desktop\\vbtIntern_\\VbtIntern\\VbtIntern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SpecialProject\\VbtIntern\\VbtIntern\\VbtIntern\\VbtIntern.csproj",
+        "projectUniqueName": "C:\\Users\\oguzhan.kara\\Desktop\\vbtIntern_\\VbtIntern\\VbtIntern.csproj",
         "projectName": "VbtIntern",
-        "projectPath": "C:\\SpecialProject\\VbtIntern\\VbtIntern\\VbtIntern\\VbtIntern.csproj",
-        "packagesPath": "C:\\Users\\tayip.songur\\.nuget\\packages\\",
-        "outputPath": "C:\\SpecialProject\\VbtIntern\\VbtIntern\\VbtIntern\\obj\\",
+        "projectPath": "C:\\Users\\oguzhan.kara\\Desktop\\vbtIntern_\\VbtIntern\\VbtIntern.csproj",
+        "packagesPath": "C:\\Users\\oguzhan.kara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oguzhan.kara\\Desktop\\vbtIntern_\\VbtIntern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tayip.songur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\oguzhan.kara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
