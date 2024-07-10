@@ -1,0 +1,2 @@
+appsettinngs.json içindeki Sql database adresini local database adresinize göre güncellemeniz gerekmekte.
+appsettinngs.json içindeki RedisConfig ayarlarınızı (özellikle password) alanını kendi local redis ayarlarınıza göre güncellemeniz gerekmekte.
