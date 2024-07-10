@@ -1,0 +1,12 @@
+C:\SpecialProject\VbtIntern2024\Cache\bin\Debug\net7.0\Cache.deps.json
+C:\SpecialProject\VbtIntern2024\Cache\bin\Debug\net7.0\Cache.dll
+C:\SpecialProject\VbtIntern2024\Cache\bin\Debug\net7.0\Cache.pdb
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\Cache.csproj.AssemblyReference.cache
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\Cache.AssemblyInfoInputs.cache
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\Cache.AssemblyInfo.cs
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\Cache.csproj.CoreCompileInputs.cache
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\Cache.dll
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\refint\Cache.dll
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\Cache.pdb
+C:\SpecialProject\VbtIntern2024\Cache\obj\Debug\net7.0\ref\Cache.dll

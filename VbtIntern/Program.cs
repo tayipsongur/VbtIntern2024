@@ -1,4 +1,5 @@
 
+using Cache.RedisCache;
 using Microsoft.EntityFrameworkCore;
 using VbtIntern.Context;
 using VbtIntern.Services;
@@ -20,6 +21,10 @@ namespace VbtIntern
 
             //Database Inject
             builder.Services.AddDbContext<VbtContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            //RedisCache Inject
+            builder.Services.AddSingleton<RedisConfigurationService>();
+            builder.Services.AddSingleton<IRedisCacheService, RedisCacheService>();
 
             //ServiceInject
             builder.Services.AddTransient<IUserService, UserService>();
